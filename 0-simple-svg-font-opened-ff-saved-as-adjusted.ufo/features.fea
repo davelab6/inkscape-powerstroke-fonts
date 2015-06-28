@@ -1,0 +1,8 @@
+# Prefix: Prefix
+@GDEF_Simple = [\a \A \b ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+
